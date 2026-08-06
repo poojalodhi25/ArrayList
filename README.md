@@ -5,7 +5,7 @@ Welcome! 👋
 This repository is all about **Java ArrayList**.
 
 ## 🤔 What is ArrayList?
-Unlike normal arrays, it can grow and shrink automatically.
+Unlike arrays, you don't need to specify the size beforehand.
 
 ArrayList is a class in the java Collation framework
 ArrayList is a dynamic array in Java meaning it size increase or decrease automatically.
@@ -68,3 +68,8 @@ Easy Trick to Remember
 📦 Array = Fixed Box (size change nahi hota)
 📚 ArrayList = Expandable Bag (zarurat par bada ho jata hai)
 🔗 LinkedList = Chain of Nodes (har node next node se connected hota hai)
+
+## 😄 Fun Fact
+
+ArrayList is like your WhatsApp group...
+People keep joining and leaving, but the group keeps working. 😂
